@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoyOlogun
 - 👀 I’m interested in Software Product Management
 - 🌱 Experienced in both Agile and waterfall methodology
-- 💞️ I’m looking for product management Intern/Entry level role
+- 💞️ I’m looking for product management role
 - 📫 You can reach me on joyologun08@gmail.com
 
 <!---
